@@ -1,0 +1,107 @@
+
+/* .head{
+    height: 400px;
+    width: 1000px;
+} */
+.head-details img{
+    border-radius: 16px;
+    background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%)
+}
+.head-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+.head-detail-text{
+    text-align: center;
+    margin-top: -500px;
+}
+.subhead{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin: 130px 530px 0px 530px;
+}
+.head-main-text{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    width: 800px;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+/* Main start */
+
+.main-head{
+    margin: 250px auto;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.main-head h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+}
+.main-head h6{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: -30px;
+}
+.main-head h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* Third Section */
+
+.section-third{
+    border-radius: 16px;
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+.section-third-text{
+    color: white;
+    width: 40%;
+    margin-left: -20%;
+}
+.section-third-text .third-section-title{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 54px;
+    font-weight: 900;
+    text-align: left;
+}
+.btn{
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+.section-third-image img{
+margin-left: 50%;
+/* background-image: linear-gradient(360.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%); */
+}
